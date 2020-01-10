@@ -6,9 +6,6 @@ Personal build of Suckless' Simple Terminal
   * Scrollback (with Shift + PgUp/PgDn)
   * Xresources
 
-#### _See LICENSE file for copyright and license details_
-
-
 -----------------
 
 st - simple terminal
@@ -44,3 +41,7 @@ See the man page for additional details.
 Credits
 -------
 Based on Aurélien APTEL <aurelien dot aptel at gmail dot com> bt source code.
+
+-----
+
+#### _See LICENSE file for copyright and license details_
